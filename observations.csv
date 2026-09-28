@@ -1,0 +1,6 @@
+number,selection_method,predicted_patterns,verified_patterns,manual_check,unexpected_result,next_question
+121,example,"palindrome; perfect square","palindrome; perfect square",11 * 11 = 121,,
+1221,example,palindrome,"palindrome; composite",3 * 407 = 1221,,
+144,example,perfect square,"perfect square; Fibonacci",12 * 12 = 144,,
+997,example,prime,prime,No prime divisor at or below 31,,
+1000,example,perfect cube,perfect cube,10 * 10 * 10 = 1000,,
